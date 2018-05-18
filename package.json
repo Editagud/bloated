@@ -1,0 +1,23 @@
+{
+  "name": "friday",
+  "version": "1.0.0",
+  "description": "Fork this repo, then clone it to your computer",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Editagud/bloated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Editagud/bloated/issues"
+  },
+  "homepage": "https://github.com/Editagud/bloated#readme"
+}
